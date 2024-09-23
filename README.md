@@ -28,7 +28,7 @@ Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make y
 ## Installation
 
 ```bash
-pip install django-jazzmin
+pip install -e git+https://github.com/Lagbag/django-jazzmin.git#egg=django-jazzmin
 ```
 
 ## Documentation
